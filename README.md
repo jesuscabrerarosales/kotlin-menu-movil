@@ -31,7 +31,10 @@ The goal is to design and implement a scalable mobile app structure with a clean
 
 ---
 
-### 🔒 License & Permissions
+---
+📜 License
+MIT License — feel free to use, modify, and contribute.
 
-This repository is **open for learning and review only**.  
-**Do not use, modify, or contribute** to this project without explicit permission from the author.
+```
+Let me know if you’d like to include screenshots, badges, or a live demo section!
+```
